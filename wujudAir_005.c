@@ -1,7 +1,4 @@
-/*Nama : Frengky Manurung
-NIM : 13321005
-Kelas : D3TK1
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
